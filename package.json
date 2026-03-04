@@ -3,7 +3,7 @@
 	"description": "QR Code Generator",
 	"license": "MIT",
 	"private": true,
-	"version": "3.0.0",
+	"version": "3.0.1",
 	"type": "module",
 	"author": "goker <https://goker.me>",
 	"repository": {
